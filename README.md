@@ -1,0 +1,2 @@
+# PolitikBezopastnosti
+PolitikBezopastnosti
